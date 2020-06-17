@@ -1,0 +1,4 @@
+C:\Users\edu21\source\repos\tpn7-HectorEduardoFaciano\tp7\tp7\obj\Debug\netcoreapp3.1\tp7.csprojAssemblyReference.cache
+C:\Users\edu21\source\repos\tpn7-HectorEduardoFaciano\tp7\tp7\obj\Debug\netcoreapp3.1\tp7.AssemblyInfoInputs.cache
+C:\Users\edu21\source\repos\tpn7-HectorEduardoFaciano\tp7\tp7\obj\Debug\netcoreapp3.1\tp7.AssemblyInfo.cs
+C:\Users\edu21\source\repos\tpn7-HectorEduardoFaciano\tp7\tp7\obj\Debug\netcoreapp3.1\tp7.csproj.CoreCompileInputs.cache

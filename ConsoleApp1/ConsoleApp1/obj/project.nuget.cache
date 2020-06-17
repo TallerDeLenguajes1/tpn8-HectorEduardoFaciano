@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjtmOh1eWiBJCe3YvEGV8cmnvq3U63LHtgKPMqYoVd+EcCOAn6lORdaGQ1kIKciPJVXup1AnF5Y03Qj0MmziPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edu21\\source\\repos\\tpn7-HectorEduardoFaciano\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edu21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
